@@ -40,3 +40,7 @@ footer {
   background-color: #f8f9fa;
   color: #333;
 }
+
+main {
+  align-content: center;
+}
